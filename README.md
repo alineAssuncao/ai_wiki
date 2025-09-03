@@ -14,6 +14,22 @@ Este espaço documenta minha jornada de 12 meses de estudos e projetos em IA, co
 
 ## 🗓️ Cronograma Geral
 
+# 🧠 AI Wiki – Especialização em Inteligência Artificial (2025–2026)
+
+Este repositório documenta minha jornada de 12 meses de estudos e projetos em IA, com foco em fundamentos teóricos, prática aplicada e preparação para o mestrado na UFG.
+
+## 📘 Objetivos
+
+- Consolidar fundamentos teóricos via pós UTFPR
+- Desenvolver projetos práticos com IA e ferramentas modernas
+- Criar portfólio público com GitHub e certificações
+- Submeter como aluna especial na UFG e iniciar o mestrado
+
+## 📚 Cronograma e Sumário da Wiki
+
+Acesse a Wiki completa: [ai_wiki/wiki](https://github.com/alineAssuncao/ai_wiki/wiki)
+
+
 | Mês       | Tema Central                | Página da Wiki                                                                 | Resultados |
 |-----------|-----------------------------|--------------------------------------------------------------------------------|------------|
 | Setembro  | Fundamentos de IA e Python  | [Fundamentos de IA e Python](https://github.com/alineAssuncao/alineAssuncao/wiki/Fundamentos-de-IA-e-Python) |            |
