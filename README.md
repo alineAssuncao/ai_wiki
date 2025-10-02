@@ -19,8 +19,8 @@ Acesse a Wiki completa: [ai_wiki/wiki](https://github.com/alineAssuncao/ai_wiki/
 
 | Mês           | Tema Central                           | Página da Wiki                                                                                                           | Resultados     |
 |---------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------|
-| Setembro/25   | Fundamentos de IA e Python             | [Fundamentos de IA e Python](https://github.com/alineAssuncao/ai_wiki/wiki/Fundamentos-de-IA-e-Python)                   | Em andamento   |
-| Outubro/25    | Data Science e Cloud                   | [Data Science e Cloud Computing](https://github.com/alineAssuncao/ai_wiki/wiki/Data-Science-e-Cloud-Computing)           | Não iniciado   |
+| Setembro/25   | Fundamentos de IA e Python             | [Fundamentos de IA e Python](https://github.com/alineAssuncao/ai_wiki/wiki/Fundamentos-de-IA-e-Python)                   | Finalizado   |
+| Outubro/25    | Data Science e Cloud                   | [Data Science e Cloud Computing](https://github.com/alineAssuncao/ai_wiki/wiki/Data-Science-e-Cloud-Computing)           | Em andamento   |
 | Novembro/25   | Machine Learning                       | [Machine Learning](https://github.com/alineAssuncao/ai_wiki/wiki/Machine-Learning)                                       | Não iniciado   |
 | Dezembro/25   | Redes Neurais                          | [Redes Neurais](https://github.com/alineAssuncao/ai_wiki/wiki/Redes-Neurais)                                             | Não iniciado   |
 | Janeiro/26    | Deep Learning                          | [Deep Learning](https://github.com/alineAssuncao/ai_wiki/wiki/Deep-Learning)                                             | Não iniciado   |
